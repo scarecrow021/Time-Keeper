@@ -1,5 +1,9 @@
 # 🕒 Time-Keeper
 
+![License](https://img.shields.io/github/license/soumik-sarkar/time-keeper)
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![PyQt6](https://img.shields.io/badge/UI-PyQt6-brightgreen.svg)
+
 **Time-Keeper** is a personal time-tracking and logging application built with **Python + PyQt6**, designed to help you maintain authentic daily work logs.  
 It automatically records your activities, calculates total work duration, and exports a secured, tamper-evident PDF report.
 
@@ -22,6 +26,12 @@ It automatically records your activities, calculates total work duration, and ex
   - Automatically locks the PDF against edits  
 - Password-protected app closure (prevents accidental exits)
 - Clean, minimal interface using PyQt6
+
+---
+
+## 🖼️ Preview
+
+![App Screenshot](PythonApp/screenshots/app_preview_v130.png)
 
 ---
 

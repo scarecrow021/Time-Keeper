@@ -6,6 +6,8 @@
 ------------------------------------------------------------------------------
 
 Author: Soumik Sarkar
+GitHub Profile: scarecrow021
+Email: soumiksarkar1997@gmail.com
 Repository: https://github.com/soumik-sarkar/time-keeper
 License: MIT License
 Version: 1.3.0
