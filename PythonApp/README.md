@@ -1,6 +1,6 @@
 # 🕒 Time-Keeper
 
-![License](https://img.shields.io/github/license/soumik-sarkar/time-keeper)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![PyQt6](https://img.shields.io/badge/UI-PyQt6-brightgreen.svg)
 
