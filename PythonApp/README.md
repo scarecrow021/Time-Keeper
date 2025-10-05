@@ -31,7 +31,7 @@ It automatically records your activities, calculates total work duration, and ex
 
 ## 🖼️ Preview
 
-![App Screenshot](PythonApp/screenshots/app_preview_v130.png)
+![App Screenshot](screenshots/app_preview_v130.png)
 
 ---
 
